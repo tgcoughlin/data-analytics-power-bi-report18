@@ -8,3 +8,8 @@
 - Blob storage (requires expansion of colun 1 to 'open' the CSV)
 - Azure SQL
 - Folder and combining of 3 x CSVs
+
+Many changes made including:
+- Creation of all pages
+- Filters
+- Navigation buttons
